@@ -1,6 +1,6 @@
 ## Tinder-Like News App (Android)
 
-<p>
+<p align=center>
   <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/new.gif">
 </p>
 
