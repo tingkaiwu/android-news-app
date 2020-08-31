@@ -32,5 +32,5 @@ Import the project to the Android Studio
 ## Structure
 
 <p>
-  <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/android.png">
+  <img width="500" src="https://github.com/tingkaiwu/tingkaiwu/blob/master/android.png">
 </p>
