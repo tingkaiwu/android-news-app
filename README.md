@@ -6,7 +6,7 @@
 
 ## Overview
 
-Tinder-Like News App is a Tinder flavor news app based on Google Component Architectural MVVM Pattern. In addition, I also implemented the bottom bar & page navigation using JetPack navigation component, and utilized MindOrks (PlaceHolderView) to support swipe gestures for liking/disliking the news. I Built the Room Database with LiveData & ViewModel to support local cache and offline model.	Integrated Retrofit and Rxjava to pull the latest news data backed by API from newsapi.org
+Tinder-Like News App is a Tinder flavor news app based on Google Component Architectural MVVM Pattern. In addition, I also implemented the bottom bar & page navigation using JetPack navigation component, and utilized MindOrks (PlaceHolderView) to support swipe gestures for liking/disliking the news. I built the Room Database with LiveData & ViewModel to support local cache and offline model.	Integrated Retrofit and Rxjava to pull the latest news data backed by API from newsapi.org
 
 ## Requirement
 
